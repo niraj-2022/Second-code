@@ -1,7 +1,10 @@
 #include<stdio.h>
 #include<conio.h>
+//#include<stdio.h>
+//#include<conio.h>
 int main()
 {
+	//main function
 	int n,c,k,s=1;
 	printf("ENTER THE NUMBER OF ROWS :");
 	scanf("%d",&n);
