@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 //#include<stdio.h>
-//#include<conio.h>
+#include<conio.h>
 int main()
 {
 	//main function
